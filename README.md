@@ -7,6 +7,7 @@ Project realized during my formation at BeCode. This is a reproduction from a fi
   </tr>
 </table>
 
+
 ---
 
 ### TECHNOLOGIES / SKILLS 
