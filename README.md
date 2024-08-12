@@ -1,5 +1,11 @@
 ### 😃 Figma 2 
 Project realized during my formation at BeCode. This is a reproduction from a figma template.
+<table>
+  <tr>
+    <td><img src="https://www.imadeus.be/others/portfolio/images/figma2/figma2-1.jpg" width="450px" height="450px" alt="Image1" /></td>
+    <td><img src="https://www.imadeus.be/others/portfolio/images/figma2/figma2-2.jpg" width="450px" height="450px" alt="Image2" /></td>
+  </tr>
+</table>
 
 ---
 
